@@ -1,0 +1,27 @@
+## name: evergarden fall orange
+## author: comfysage
+## license: GPL-3.0
+## blurb: a comfy colorscheme for cozy morning coding
+
+palette = 0=#232a2e
+palette = 1=#e67e80
+palette = 2=#b2c98f
+palette = 3=#dbbc7f
+palette = 4=#9bb5cf
+palette = 5=#e3a8d1
+palette = 6=#93c9a1
+palette = 7=#dddecf
+palette = 8=#313b40
+palette = 9=#e67e80
+palette = 10=b2c98f
+palette = 11=dbbc7f
+palette = 12=9bb5cf
+palette = 13=e3a8d1
+palette = 14=93c9a1
+palette = 15=#94aaa0
+background = 232a2e
+foreground = dddecf
+cursor-color = e69875
+cursor-text = 171c1f
+selection-background = 3d494d
+selection-foreground = dddecf
