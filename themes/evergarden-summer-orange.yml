@@ -1,0 +1,27 @@
+## name: evergarden summer orange
+## author: comfysage
+## license: GPL-3.0
+## blurb: a comfy colorscheme for cozy morning coding
+
+palette = 0=#e9ebf0
+palette = 1=#c0696b
+palette = 2=#a9be88
+palette = 3=#cbae75
+palette = 4=#8ca4bb
+palette = 5=#d0a3c3
+palette = 6=#91bb9c
+palette = 7=#171c1f
+palette = 8=#ced9e0
+palette = 9=#c0696b
+palette = 10=a9be88
+palette = 11=cbae75
+palette = 12=8ca4bb
+palette = 13=d0a3c3
+palette = 14=91bb9c
+palette = 15=#526469
+background = e9ebf0
+foreground = 171c1f
+cursor-color = ca8c70
+cursor-text = d6dbe9
+selection-background = b4c6cc
+selection-foreground = 171c1f
