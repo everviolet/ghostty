@@ -22,11 +22,11 @@ palette = 6=#{{aqua.hex}}
 palette = 7=#{{text.hex}}
 palette = 8=#{{surface0.hex}}
 palette = 9=#{{red.hex}}
-palette = 10={{green.hex}}
-palette = 11={{yellow.hex}}
-palette = 12={{blue.hex}}
-palette = 13={{pink.hex}}
-palette = 14={{aqua.hex}}
+palette = 10=#{{green.hex}}
+palette = 11=#{{yellow.hex}}
+palette = 12=#{{blue.hex}}
+palette = 13=#{{pink.hex}}
+palette = 14=#{{aqua.hex}}
 palette = 15=#{{subtext0.hex}}
 background = {{base.hex}}
 foreground = {{text.hex}}
