@@ -3,22 +3,22 @@
 ## license: GPL-3.0
 ## blurb: a comfy colorscheme for cozy morning coding
 
-palette = 0=#d7e1eb
+palette = 0=#b4c6cc
 palette = 1=#c0696b
 palette = 2=#91ac75
 palette = 3=#bc9c6b
 palette = 4=#8ca0bb
 palette = 5=#ca9ebd
 palette = 6=#7baa92
-palette = 7=#171c1f
-palette = 8=#ced9e0
+palette = 7=#526469
+palette = 8=#758a90
 palette = 9=#c0696b
 palette = 10=#91ac75
 palette = 11=#bc9c6b
 palette = 12=#8ca0bb
 palette = 13=#ca9ebd
 palette = 14=#7baa92
-palette = 15=#526469
+palette = 15=#415055
 background = d7e1eb
 foreground = 171c1f
 cursor-color = ceabbf
